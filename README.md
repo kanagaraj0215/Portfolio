@@ -1,12 +1,12 @@
 # Data Science Portfolio
 Welcome to my data science portfolio! Here, you will find a collection of projects demonstrating my skills and expertise in various areas of data science, including machine learning, natural language processing, time series analysis, and more.
 
-# About Me
+## About Me
 I am a passionate data scientist with a strong programming and data analysis background. I am deeply enthusiastic about transforming data into actionable insights and building predictive models to solve real-world problems.
 
-# Projects
+## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/kanagaraj0215/portfolio/blob/main/images/airbnb-pricing-strategy-and-toolsf.jpg"> **[airbnb-pricing-assistant](https://github.com/kanagaraj0215/Data-Science-Projects/blob/main/supervised-machine-learning/airbnb-pricing-assistant)**
+<img align="left" width="250" height="150" src="/images/airbnb-pricing-strategy-and-toolsf.jpg"> **[airbnb-pricing-assistant](https://github.com/kanagaraj0215/Data-Science-Projects/blob/main/supervised-machine-learning/airbnb-pricing-assistant)**
 
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)
@@ -69,7 +69,7 @@ The objective of this project is to analyze the 3 million grocery orders from mo
 <br />
 
 
-# Contact Information
+## Contact Information
 - **Email**: [kanagaraj0215@gmail.com](kanagaraj0215@gmail.com)
 - **LinkedIn**: [kanagaraj-ramasamy](https://www.linkedin.com/in/kanagaraj-ramasamy-75468b77)
 
