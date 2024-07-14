@@ -6,7 +6,7 @@ I am a passionate data scientist with a strong programming and data analysis bac
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/kanagaraj0215/portfolio/blob/main/images/airbnb-pricing-strategy-and-toolsf.jpeg"> **[airbnb-pricing-assistant](https://github.com/kanagaraj0215/Data-Science-Projects/blob/main/supervised-machine-learning/airbnb-pricing-assistant)**
+<img align="left" src="./images/airbnb-pricing-strategy-and-toolsf.JPG"  class="img-responsive" alt=""> **[airbnb-pricing-assistant](https://github.com/kanagaraj0215/Data-Science-Projects/blob/main/supervised-machine-learning/airbnb-pricing-assistant)**
 
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)
