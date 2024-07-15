@@ -49,17 +49,17 @@ The Bank Customer Complaint Classification project utilizes Natural Language Pro
 
 The Movie Recommender System project utilizes a content-based filtering approach, leveraging the TF-IDF Vectorizer to recommend movies. By analyzing movie descriptions and transforming them into numerical vectors, the model identifies and suggests films similar to those users have liked. This project not only highlights the application of Natural Language Processing (NLP) techniques but also emphasizes the potential of machine learning to enhance user experience by providing personalized movie recommendations based on content similarity.
 
-#
+### **[Movie Review Sentiment Analysis](https://github.com/kanagaraj0215/Data-Science-Projects/blob/main/natural-language-processing/movie-review-sentiment-analysis)**
 
-<img align="left" width="250" height="150" src="https://github.com/kanagaraj0215/portfolio/blob/main/images/instacart.jpeg"> **[movie-review-sentiment-analysis](https://github.com/kanagaraj0215/Data-Science-Projects/blob/main/natural-language-processing/movie-review-sentiment-analysis)**
+<img align="center" width="250" height="150" src="./images/movie_review_sentiment_analysis.JPG"   class="img-responsive" alt="">
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+The Movie Review Sentiment Analysis project employs TextBlob and VADER for initial sentiment analysis, providing quick and straightforward polarity assessments of reviews. Further, by applying NLP techniques such as tokenization and vectorization, I developed logistic regression and KNeighbors Classifier models to enhance sentiment classification accuracy. This project demonstrates the integration of basic and advanced methods to improve sentiment analysis, offering valuable insights into audience options and enhancing recommendation systems.
 
-#
+### **[Retail Forecast](https://github.com/kanagaraj0215/Data-Science-Projects/blob/main/deep-learning/retail-forecast)**
 
-<img align="left" width="250" height="150" src="https://github.com/kanagaraj0215/portfolio/blob/main/images/instacart.jpeg"> ****
+<img align="center" width="250" height="150" src="./images/retail-forecasting.JPG"  class="img-responsive" alt=""> ****
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+The Retail Forecast project uses ARIMA and LSTM models to predict future sales trends. ARIMA, a statistical method, captures linear patterns in sales data, while LSTM, a deep learning model, excels at recognizing complex temporal dependencies. By combining these approaches, I achieved a more accurate and robust forecast, providing valuable insights for inventory management and strategic planning. This project demonstrates the effectiveness of integrating traditional and advanced techniques to enhance predictive accuracy in retail analytics.
 
 #
 
