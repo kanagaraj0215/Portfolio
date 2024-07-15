@@ -1,8 +1,14 @@
 # Data Science Portfolio
-Welcome to my data science portfolio! Here, you will find a collection of projects demonstrating my skills and expertise in various areas of data science, including machine learning, natural language processing, time series analysis, and more.
 
 ## About Me
-I am a passionate data scientist with a strong programming and data analysis background. I am deeply enthusiastic about transforming data into actionable insights and building predictive models to solve real-world problems.
+<p>Welcome to my data science portfolio! I am a recent data science graduate with over 16 years of extensive experience in data warehousing and engineering. My career has been dedicated to designing and managing data architecture, implementing ETL processes and business intelligence solutions, leading and developing backend APIs, overseeing database management, and ensuring data is clean, well-structured, and primed for analysis. With a deep proficiency in tools and technologies, I have consistently delivered scalable and robust data solutions. This strong technical background has laid a solid foundation for my transition into data science, where I now apply advanced analytical techniques to derive meaningful insights from complex datasets.</p>
+<p>My portfolio showcases projects where I have applied advanced statistical analysis, machine learning, and deep learning techniques to solve real-world problems. From predictive modeling and time series forecasting to natural language processing and classification systems, I strive to deliver impactful solutions that drive data-driven decision-making. I thrive in collaborative environments and am dedicated to continuous learning and professional growth. My goal is to leverage my data engineering background and data science skills to contribute to innovative projects and help organizations harness the full potential of their data. I am committed to staying at the forefront of the field and continuously improving my skills.</p>
+
+#### Technical Skills: Python, Java, SQL and NoSQL databases, Flink, Kafka, Airflow, Hadoop, OpenSearch, Data Warehousing, Business Intelligence, AWS
+
+## Education					       		
+- M.S., Data Science | Bellevue University (_August 2024_)	 			        		
+- B.E., Electronics and Communication | Anna University (_April 2007_)
 
 ## Projects
 
