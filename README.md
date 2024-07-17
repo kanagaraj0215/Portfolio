@@ -15,9 +15,7 @@
 ### **[Airbnb Pricing Assistant](https://github.com/kanagaraj0215/Data-Science-Projects/blob/main/supervised-machine-learning/airbnb-pricing-assistant)**
 <img align="center" width="250" height="150" src="./images/airbnb-pricing-strategy-and-toolsf.JPG"  class="img-responsive" alt=""> 
 
-
 The Airbnb pricing assistance project, a data-driven application of machine learning in the sharing economy, leverages Linear Regression, ridge regression, and KNeighborsRegressor to predict optimal listing prices based on features such as location, property type, and amenities. By cleaning and preparing historical data from Airbnb listings, I developed and compared these models to determine the best approach for accurate price predictions. Linear regressor performed better among all these models for the given datasets. This project highlights the practical application of machine learning, offering data-driven strategies to maximize occupancy and revenue for Airbnb hosts.
-
 
 
 ### **[Creditcard Fraud Detection](https://github.com/kanagaraj0215/Data-Science-Projects/blob/main/supervised-machine-learning/creditcard-fraud-detection)**
