@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ## About Me
-<p>Welcome to my data science portfolio! I am a recent data science graduate with over 16 years of extensive experience in data warehousing and engineering. My career has been dedicated to designing and managing data architecture, implementing ETL processes and business intelligence solutions, leading and developing backend APIs, overseeing database management, and ensuring data is clean, well-structured, and primed for analysis. With a deep proficiency in tools and technologies, I have consistently delivered scalable and robust data solutions. This strong technical background has laid a solid foundation for my transition into data science, where I now apply advanced analytical techniques to derive meaningful insights from complex datasets.</p>
+<p>Welcome to my data science portfolio! I am a recent data science graduate with over 16 years of extensive experience in data engineering. My career has been dedicated to designing and managing data architecture, implementing ETL processes and business intelligence solutions, leading and developing backend APIs, overseeing database management, and ensuring data is clean, well-structured, and primed for analysis. With a deep proficiency in tools and technologies, I have consistently delivered scalable and robust data solutions. This strong technical background has laid a solid foundation for my transition into data science, where I now apply advanced analytical techniques to derive meaningful insights from complex datasets.</p>
 <p>My portfolio showcases projects where I have applied advanced statistical analysis, machine learning, and deep learning techniques to solve real-world problems. From predictive modeling and time series forecasting to natural language processing and classification systems, I strive to deliver impactful solutions that drive data-driven decision-making. I thrive in collaborative environments and am dedicated to continuous learning and professional growth. My goal is to leverage my data engineering background and data science skills to contribute to innovative projects and help organizations harness the full potential of their data. I am committed to staying at the forefront of the field and continuously improving my skills.</p>
 
 #### Technical Skills: Python, Java, SQL and NoSQL databases, Flink, Kafka, Airflow, Hadoop, OpenSearch, Data Warehousing, Business Intelligence, AWS
@@ -64,13 +64,6 @@ The Movie Review Sentiment Analysis project employs TextBlob and VADER for initi
 <img align="center" width="250" height="150" src="./images/retail-forecasting.JPG"  class="img-responsive" alt=""> ****
 
 The Retail Forecast project uses ARIMA and LSTM models to predict future sales trends. ARIMA, a statistical method, captures linear patterns in sales data, while LSTM, a deep learning model, excels at recognizing complex temporal dependencies. By combining these approaches, I achieved a more accurate and robust forecast, providing valuable insights for inventory management and strategic planning. This project demonstrates the effectiveness of integrating traditional and advanced techniques to enhance predictive accuracy in retail analytics.
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/kanagaraj0215/portfolio/blob/main/images/instacart.jpeg"> ****
-
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
-
 
 <br />
 
