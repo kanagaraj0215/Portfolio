@@ -61,9 +61,17 @@ The Movie Review Sentiment Analysis project employs TextBlob and VADER for initi
 
 ### **[Retail Forecast](https://github.com/kanagaraj0215/Data-Science-Projects/blob/main/deep-learning/retail-forecast)**
 
-<img align="center" width="250" height="150" src="./images/retail-forecasting.JPG"  class="img-responsive" alt=""> ****
+<img align="center" width="250" height="150" src="./images/retail-forecasting.JPG"  class="img-responsive" alt="">
 
 The Retail Forecast project uses ARIMA and LSTM models to predict future sales trends. ARIMA, a statistical method, captures linear patterns in sales data, while LSTM, a deep learning model, excels at recognizing complex temporal dependencies. By combining these approaches, I achieved a more accurate and robust forecast, providing valuable insights for inventory management and strategic planning. This project demonstrates the effectiveness of integrating traditional and advanced techniques to enhance predictive accuracy in retail analytics.
+
+### **[Email Defender](https://github.com/kanagaraj0215/Data-Science-Projects/blob/main/deep-learning/email-defender)**
+
+<img align="center" width="250" height="150" src="./images/email-defender.JPG"  class="img-responsive" alt="">
+
+This project focuses on enhancing email spam detection by evaluating the performance of two different models: a Random Forest classifier with TF-IDF feature extraction and a fine-tuned BERT model. By comparing these approaches, the project aims to determine which model delivers superior accuracy, precision, recall, and F1-score in identifying spam emails. The insights gained from this comparison can help companies enhance their email security, reduce the risk of phishing attacks, and boost employee productivity by minimizing the intrusion of spam into their inboxes.
+
+
 
 <br />
 
